@@ -4,7 +4,6 @@
 
 ### Usage:
 ```bash
-# install degit for project scaffolding
 npm i -g degit
 
 # example for svelte project 
