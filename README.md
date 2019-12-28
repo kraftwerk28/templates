@@ -1,8 +1,10 @@
-## Use this project as templates
+## Use this repo as template for your next project
+
+### [degit](https://github.com/Rich-Harris/degit) is a tool for project scaffolding, by [Rich Harris](https://github.com/Rich-Harris)
 
 ### Usage:
 ```bash
-# install degit for scaffolding
+# install degit for project scaffolding
 npm i -g degit
 
 # example for svelte project 
